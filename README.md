@@ -6,7 +6,6 @@
   - [Interview Prep](#interview-prep)
   - [Computer Architecture](#computer-architecture)
   - [Python](#python)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
 - [More Knowledge](#more-knowledge)
@@ -30,45 +29,6 @@
 - [Computer Science Courses](#computer-science-courses)
 - [Papers](#papers)
 - [LICENSE](#license)
-
----------------- Everything below this point is optional ----------------
-
-<details>
-<summary>Additional Resources</summary>
-
-- [Table of Contents](#table-of-contents)
-- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-  - [Interview Prep](#interview-prep)
-  - [Computer Architecture](#computer-architecture)
-  - [Python](#python)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
-- [More Knowledge](#more-knowledge)
-- [Trees](#trees)
-- [Sorting](#sorting)
-- [Graphs](#graphs)
-- [Even More Knowledge](#even-more-knowledge)
-- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
-- [Final Review](#final-review)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding exercises/challenges](#coding-exerciseschallenges)
-- [Once you're closer to the interview](#once-youre-closer-to-the-interview)
-- [Your Resume](#your-resume)
-- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-- [Have questions for the interviewer](#have-questions-for-the-interviewer)
-- [Once You've Got The Job](#once-youve-got-the-job)
-- [Additional Books](#additional-books)
-- [Additional Learning](#additional-learning)
-- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
-- [Video Series](#video-series)
-- [Computer Science Courses](#computer-science-courses)
-- [Papers](#papers)
-- [LICENSE](#license)
-
-</details>
-
----
 
 ## Interview Process & General Interview Prep
 
@@ -132,20 +92,6 @@ Choose one:
     - I loved this book. It covered everything and more.
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-
-</details>
-
-## Prerequisite Knowledge
-
-<details>
-<summary>Prerequisite Knowledge</summary>
-
-- [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-    - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 </details>
 
